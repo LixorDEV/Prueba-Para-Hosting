@@ -1,0 +1,33 @@
+.cuadrado {
+position: absolute;
+width: 269px;
+height: 250px;
+left: 250px;
+top: 336px;
+
+background: #D9D9D9;
+filter: blur(2px);
+border-radius: 90px;
+}
+.cuadrado2 {
+    position: absolute;
+    width: 269px;
+    height: 250px;
+    left: 603px;
+    top: 336px;
+    
+    background: #D9D9D9;
+    border-radius: 90px;
+    
+    
+}
+.cuadrado3 {
+    position: absolute;
+    width: 269px;
+    height: 250px;
+    left: 970px;
+    top: 336px;
+    
+    background: #D6E708;
+    border-radius: 90px;
+}
